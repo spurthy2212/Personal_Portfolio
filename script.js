@@ -1,7 +1,5 @@
 // Toggle Dark/Light Mode
-const modeBtn = document.getElementById("modeToggle");
-
-modeBtn.addEventListener("click", () => {
+document.getElementById("modeToggle").addEventListener("click", function () {
   document.body.classList.toggle("light");
-  modeBtn.textContent = document.body.classList.contains("light") ? "🌙" : "☀️";
+  this.textContent = document.body.classList.contains("light") ? "🌙" : "☀️";
 });
