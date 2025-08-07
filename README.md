@@ -57,7 +57,9 @@ I'm passionate about building user-friendly web applications and solving real-wo
 ## 💡 Projects
 
 - **Snake Game** – A Python Pygame-based snake game with scoring and collision detection.
-- **Hotel Management System** – Console-based Java application with MySQL integration.
+- ** Personal Portfolio Website-Responsive personal portfolio using HTML, CSS, and JavaScript.
+
+Dark/Light Mode Tog.
 
 ---
 
